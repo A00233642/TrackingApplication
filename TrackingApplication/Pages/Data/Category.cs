@@ -13,7 +13,6 @@ namespace TrackingApplication.Pages.Data
 
         public int Type { get; set; }
 
-
         public String Description { get; set; }
     }
 }
