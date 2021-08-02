@@ -8,5 +8,12 @@ namespace TrackingApplication.Pages.Data
 {
     public class Category
     {
+        [Key]
+        public String NameToken { get; set; }
+
+        public int Type { get; set; }
+
+
+        public String Description { get; set; }
     }
 }
