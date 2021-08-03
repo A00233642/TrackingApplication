@@ -1,3 +1,3 @@
-# Booking Tracking Application
+# Book Tracking Application
 
 Akintunde Taiwo
